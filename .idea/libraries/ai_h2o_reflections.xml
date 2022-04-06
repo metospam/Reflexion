@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ai.h2o.reflections" type="repository">
+    <properties maven-id="ai.h2o:reflections:0.9.11-h2o-custom" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ai/h2o/reflections/0.9.11-h2o-custom/reflections-0.9.11-h2o-custom.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/15.0/guava-15.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/3.0.0/jsr305-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
